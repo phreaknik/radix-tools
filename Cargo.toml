@@ -1,0 +1,13 @@
+[dependencies]
+
+[package]
+name = "radix-tools"
+version = "0.1.0"
+authors = ["cargodog <cargodog@protonmail.com>"]
+edition = "2018"
+description = "Tools for computing powers or decomposing numbers by radix."
+license-file = "LICENSE"
+repository = "https://github.com/cargodog/radix-tools"
+categories = ["math", "no-std"]
+keywords = ["radix", "power", "exponent"]
+exclude = ["**/.gitignore", ".gitignore"]
